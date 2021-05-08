@@ -1,0 +1,32 @@
+Producto: aa Precio: 1231231 Marca: adidas  fecha: 7/5/2021 16:54:14
+Producto: aa Precio: 1231231 Marca: adidas  fecha: 7/5/2021 16:54:15
+Producto: aa Precio: 1231231 Marca: adidas  fecha: 7/5/2021 16:54:15
+Producto: aa Precio: 1231231 Marca: adidas  fecha: 7/5/2021 16:54:15
+Producto: aa Precio: 1231231 Marca: adidas  fecha: 7/5/2021 16:54:16
+Producto: aa Precio: 1231231 Marca: adidas  fecha: 7/5/2021 16:54:16
+Producto: aa Precio: 1231231 Marca: adidas  fecha: 7/5/2021 16:54:16
+Producto: asdasdasd Precio: 123123 Marca: sssa7/5/2021 17:33:02
+Producto: asdasdasd Precio: 123123 Marca: sssa7/5/2021 17:33:03
+Producto: asdasdasd Precio: 123123 Marca: sssa7/5/2021 17:33:03
+Producto: asdasdasd Precio: 123123 Marca: sssa7/5/2021 17:33:03
+Producto: asdasdasd Precio: 123123 Marca: sssa7/5/2021 17:33:03
+Producto: asdasdasd Precio: 123123 Marca: sssa7/5/2021 17:33:03
+Producto: ahre Precio: 123123 Marca: aaaaaaaaa7/5/2021 17:50:00
+Producto: ahre Precio: 123123 Marca: aaaaaaaaa7/5/2021 17:50:00
+Producto: ahre Precio: 123123 Marca: aaaaaaaaa7/5/2021 17:50:01
+Producto: ahre Precio: 123123 Marca: aaaaaaaaa7/5/2021 17:50:01
+Producto: ahre Precio: 123123 Marca: aaaaaaaaa7/5/2021 17:50:06
+Producto: ahre Precio: 123123 Marca: aaaaaaaaa7/5/2021 17:50:07
+Producto: camisa Precio: 123123 Marca: asdasd7/5/2021 17:52:22
+Producto: camisa Precio: 123123 Marca: asdasd7/5/2021 17:52:23
+Producto: camisa Precio: 123123 Marca: asdasd7/5/2021 17:52:23
+Producto: camisa Precio: 123123 Marca: asdasd7/5/2021 17:52:23
+Producto: camisa Precio: 123123 Marca: asdasd7/5/2021 17:56:44
+Producto: camisa Precio: 123123 Marca: asdasd7/5/2021 17:56:44
+Producto: camisa Precio: 123123 Marca: asdasd7/5/2021 17:56:45
+Producto: camisa Precio: 123123 Marca: asdasd7/5/2021 17:56:45
+Producto: remera Precio: 4000 Marca: LunaPlena8/5/2021 16:37:27
+Producto: remera Precio: 4000 Marca: LunaPlena8/5/2021 16:37:29
+Producto: remera Precio: 4000 Marca: LunaPlena8/5/2021 16:37:29
+Producto: remera Precio: 4000 Marca: LunaPlena8/5/2021 16:37:29
+Producto: remera Precio: 4000 Marca: LunaPlena8/5/2021 16:37:30
